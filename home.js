@@ -16,4 +16,4 @@ function pizzBuzz(phoneNum){
     }
     console.log(output);
 }
-pizzBuzz(9000000007);
+
